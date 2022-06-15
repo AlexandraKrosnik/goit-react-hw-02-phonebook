@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AlexandraKrosnik/goit-react-hw-02-phonebook.git/static/css/main.7acaea2f.css",
+    "main.js": "/AlexandraKrosnik/goit-react-hw-02-phonebook.git/static/js/main.dad155f9.js",
+    "index.html": "/AlexandraKrosnik/goit-react-hw-02-phonebook.git/index.html",
+    "main.7acaea2f.css.map": "/AlexandraKrosnik/goit-react-hw-02-phonebook.git/static/css/main.7acaea2f.css.map",
+    "main.dad155f9.js.map": "/AlexandraKrosnik/goit-react-hw-02-phonebook.git/static/js/main.dad155f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.dad155f9.js"
+  ]
+}
